@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/sumit/Desktop/pomeloAssignment/components/home.spec.js">
+    <testCase name="Test cases for MobileNumberCheck should render MobileNumberCheck" duration="421"/>
+  </file>
+  <file path="/Users/sumit/Desktop/pomeloAssignment/components/detail.spec.js">
+    <testCase name="Test cases for MobileNumberCheck should render MobileNumberCheck" duration="395"/>
+  </file>
+  <file path="/Users/sumit/Desktop/pomeloAssignment/reducers/article.reducer.spec.js">
+    <testCase name="testing default reducer should return the initial state" duration="16"/>
+    <testCase name="testing default reducer should handle SAVE_NEWS_DATA" duration="3"/>
+    <testCase name="testing default reducer should handle SAVE_NEWS_LIST" duration="1"/>
+    <testCase name="testing default reducer should handle CLEAR_NEWS_LIST" duration="3"/>
+    <testCase name="testing default reducer should handle SAVE_NEWS_INDEX" duration="1"/>
+  </file>
+  <file path="/Users/sumit/Desktop/pomeloAssignment/components/header.spec.js">
+    <testCase name="Test cases for MobileNumberCheck should render MobileNumberCheck" duration="260"/>
+  </file>
+  <file path="/Users/sumit/Desktop/pomeloAssignment/actions/action-articles.spec.js">
+    <testCase name="test all action in should create an action to add a todo" duration="4"/>
+  </file>
+</testExecutions>
