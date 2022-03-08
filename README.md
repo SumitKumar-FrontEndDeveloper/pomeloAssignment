@@ -4,19 +4,28 @@ Integration newyork times search api.
 
 # Technology 
 
- React Js, Redux , Jest and enzyme for unit test.
+ React Js, Next Js, Redux , Jest and enzyme for unit test.
 
-### `Project task`
 
-1. Setup project in react js.
-2. Create UI of news listing page which is responsive.
-3. Integration of newyork times search api by using axios.
-4. Setup reusable redux store. 
-5. Setup unit test configuration by using jest and enzyme
-5. Implementation of routes.
-5. Create UI of news details page.
-6. Search feature.
-7. Write unit test for all functional files.
+### Step To Install Project
+
+1. Download the project and unzip
+2. Go to project folder run yarn command (it will install node modules)
+3. To Run the project run “yarn dev” command 
+
+### Feature Developed in Project
+
+1. Setup Next Js project from scratch.
+2. Setup JEST and Enzyme for unit testing
+3. Newyork news listing screen (displaying image and new content)
+4. News search feature common component
+5. News Details Component
+
+### Used Tool
+
+1. Redux for sharing data between screens
+2. Jest and enzyme for Unit Testing
+3. React testing library
 
 
 ### `yarn install`
