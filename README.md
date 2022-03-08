@@ -42,6 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 If you want to see the test results of all functional files. Go to coverage folder and run index.html.  
 
+![alt text](https://raw.githubusercontent.com/SumitKumar-FrontEndDeveloper/pomeloAssignment/main/test_coverage.png)
 
 ### `yarn build`
 
